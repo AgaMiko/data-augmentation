@@ -30,7 +30,9 @@ Feel free to make a pull request!
 	* [AutoAugment](papers.md#autoaugment)
 * [Other - challenges, workshops, tutorials, books](README.md#Other)
 
-
+# Featured ⭐
+Data augmentation for bias mitigation?
+* [Targeted Data Augmentation for bias mitigation](https://arxiv.org/abs/2308.11386); Agnieszka Mikołajczyk-Bareła, Maria Ferlin, Michał Grochowski; The development of fair and ethical AI systems requires careful consideration of bias mitigation, an area often overlooked or ignored. In this study, we introduce a novel and efficient approach for addressing biases called Targeted Data Augmentation (TDA), which leverages classical data augmentation techniques to tackle the pressing issue of bias in data and models. Unlike the laborious task of removing biases, our method proposes to insert biases instead, resulting in improved performance. (...)
 
 # Introduction
 Data augmentation can be simply described as any method that makes our dataset larger by making modified copies of the existing dataset. To create more images for example, we could zoom in and save the result, we could change the brightness of the image or rotate it. To get a bigger sound dataset we could try to raise or lower the pitch of the audio sample or slow down/speed up.
